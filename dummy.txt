@@ -1,1 +1,8 @@
-siuuuu
+git config --global user.name""
+git congig --global user.email ""
+git add ./ for file name / for entire files
+git comit -m "feat:file added" (- m means message )
+git pus orgin main
+git status to see the status
+git pull to get the data from the the updated file in git 
+dummmy
