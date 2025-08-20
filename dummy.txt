@@ -5,4 +5,4 @@ git comit -m "feat:file added" (- m means message )
 git pus orgin main
 git status to see the status
 git pull to get the data from the the updated file in git 
-dummmy
+dummmy bava
