@@ -1,8 +1,18 @@
 git config --global user.name""
-git congig --global user.email ""
+git congig --global user.email "" // these two for cmd prompt
 git add ./ for file name / for entire files
 git comit -m "feat:file added" (- m means message )
-git pus orgin main
+git push orgin main
 git status to see the status
 git pull to get the data from the the updated file in git 
+git diff 
+git branch it will show the branch
+git checkout -b youth to create new branch
+git checkout main switch from another branch
+git branch -M "ganga" it will change the existing branch name
+git log it shows the commits 
+git -a  
+
+
 dummmy bava
+this is aa modified  line
